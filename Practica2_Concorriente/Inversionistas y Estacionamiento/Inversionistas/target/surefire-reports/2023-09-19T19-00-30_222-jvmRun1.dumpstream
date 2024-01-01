@@ -1,0 +1,103 @@
+# Created at 2023-09-19T19:00:42.721
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: null
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:398)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+
+# Created at 2023-09-19T19:00:44.218
+Unexpected IOException: 7,1,kas.concurrente.MesaTest,todosHanIntentadoComerFiltro,null,Unimplemented method 'vecesTomado',null,Unimplemented method 'vecesTomado',MesaTest.todosHanIntentadoComerFiltro:46 \00BB UnsupportedOperation Unimplemented ...,java.lang.UnsupportedOperationException: Unimplemented method 'vecesTomado'\000A\0009at kas.concurrente.MesaTest.todosHanIntentadoComerFiltro(MesaTest.java:46)\000A
+
+
+# Created at 2023-09-19T19:00:44.251
+Unexpected IOException: 5,1,kas.concurrente.MesaTest,todosComieronFiltro,null,null,null
+
+
+# Created at 2023-09-19T19:00:54.259
+Unexpected IOException: 8,1,kas.concurrente.MesaTest,todosComieronFiltro,null,expected: <true> but was: <false>,null,expected: <true> but was: <false>,MesaTest.todosComieronFiltro:62 expected: <true> but was: <false>,org.opentest4j.AssertionFailedError: expected: <true> but was: <false>\000A\0009at kas.concurrente.MesaTest.todosComieronFiltro(MesaTest.java:62)\000A
+
+
+# Created at 2023-09-19T19:00:54.260
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,kas.concurrente.MesaTest,null,null,null
+
+
+# Created at 2023-09-19T19:00:54.263
+Unexpected IOException: 1,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,kas.concurrente.tenedor.TenedorTest,null,null,null
+
+
+# Created at 2023-09-19T19:00:54.267
+Unexpected IOException: 5,1,kas.concurrente.tenedor.TenedorTest,tenedorTest,null,null,null
+
+
+# Created at 2023-09-19T19:00:54.270
+Unexpected IOException with stream: Exception in thread "1088" 
+
+# Created at 2023-09-19T19:00:54.271
+Unexpected IOException with stream: Exception in thread "1025" 
+
+# Created at 2023-09-19T19:00:54.272
+Unexpected IOException with stream: java.lang.UnsupportedOperationException: Unimplemented method 'tomar'
+
+# Created at 2023-09-19T19:00:54.273
+Unexpected IOException with stream: 
+
+
+# Created at 2023-09-19T19:00:54.274
+Unexpected IOException with stream: 	at kas.concurrente.tenedor.TenedorImpl.tomar(TenedorImpl.java:15)
+
+# Created at 2023-09-19T19:00:54.275
+Unexpected IOException with stream: 
+
+
+# Created at 2023-09-19T19:00:54.277
+Unexpected IOException with stream: 	at kas.concurrente.tenedor.TenedorTest.tomaYSueltaTenedor(TenedorTest.java:34)
+
+# Created at 2023-09-19T19:00:54.279
+Unexpected IOException with stream: 
+
+
+# Created at 2023-09-19T19:00:54.280
+Unexpected IOException with stream: 	at java.base/java.lang.Thread.run(Thread.java:833)
+
+# Created at 2023-09-19T19:00:54.281
+Unexpected IOException with stream: 
+
+
+# Created at 2023-09-19T19:00:54.282
+Unexpected IOException with stream: java.lang.UnsupportedOperationException: Unimplemented method 'tomar'
+
+# Created at 2023-09-19T19:00:54.284
+Unexpected IOException with stream: 
+
+
+# Created at 2023-09-19T19:00:54.285
+Unexpected IOException with stream: 	at kas.concurrente.tenedor.TenedorImpl.tomar(TenedorImpl.java:15)
+
+# Created at 2023-09-19T19:00:54.286
+Unexpected IOException with stream: 
+
+
+# Created at 2023-09-19T19:00:54.287
+Unexpected IOException with stream: 	at kas.concurrente.tenedor.TenedorTest.tomaYSueltaTenedor(TenedorTest.java:34)
+
+# Created at 2023-09-19T19:00:54.288
+Unexpected IOException with stream: 
+
+
+# Created at 2023-09-19T19:00:54.289
+Unexpected IOException with stream: 	at java.base/java.lang.Thread.run(Thread.java:833)
+
+# Created at 2023-09-19T19:00:54.290
+Unexpected IOException with stream: 
+
+
+# Created at 2023-09-19T19:00:54.292
+Unexpected IOException: 8,1,kas.concurrente.tenedor.TenedorTest,tenedorTest,null,expected: <true> but was: <false>,null,expected: <true> but was: <false>,TenedorTest.tenedorTest:51 expected: <true> but was: <false>,org.opentest4j.AssertionFailedError: expected: <true> but was: <false>\000A\0009at kas.concurrente.tenedor.TenedorTest.tenedorTest(TenedorTest.java:51)\000A
+
+
+# Created at 2023-09-19T19:00:54.294
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,kas.concurrente.tenedor.TenedorTest,null,null,null
+
+

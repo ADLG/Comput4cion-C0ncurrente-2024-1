@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: kas.concurrente.modelos.LugarTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 44.145 s - in kas.concurrente.modelos.LugarTest
+constructorTest  Time elapsed: 0.006 s
+vecesEstacionadoTest  Time elapsed: 39.129 s
+estacionaTest  Time elapsed: 5.007 s

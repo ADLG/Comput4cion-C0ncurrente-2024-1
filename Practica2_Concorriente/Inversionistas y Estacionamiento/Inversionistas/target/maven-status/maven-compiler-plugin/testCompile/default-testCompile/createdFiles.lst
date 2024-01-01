@@ -1,0 +1,4 @@
+kas\concurrente\candados\Counter.class
+kas\concurrente\candados\SemaphoreTest.class
+kas\concurrente\MesaTest.class
+kas\concurrente\candados\PetersonLockTest.class

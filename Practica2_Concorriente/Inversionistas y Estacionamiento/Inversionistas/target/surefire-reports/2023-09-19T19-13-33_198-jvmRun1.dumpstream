@@ -1,0 +1,139 @@
+# Created at 2023-09-19T19:13:34.789
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: null
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:398)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+
+# Created at 2023-09-19T19:13:36.749
+Unexpected IOException with stream: Thread-0
+
+# Created at 2023-09-19T19:13:36.750
+Unexpected IOException with stream:  verificacion finalizada 
+
+# Created at 2023-09-19T19:13:36.751
+Unexpected IOException with stream: true
+
+# Created at 2023-09-19T19:13:36.752
+Unexpected IOException with stream: 
+
+
+# Created at 2023-09-19T19:13:36.891
+Unexpected IOException with stream: 1
+
+# Created at 2023-09-19T19:13:36.892
+Unexpected IOException with stream:  valor alcanzado 
+
+# Created at 2023-09-19T19:13:36.893
+Unexpected IOException with stream: 2498806
+
+# Created at 2023-09-19T19:13:36.894
+Unexpected IOException with stream: 
+
+
+# Created at 2023-09-19T19:13:37.250
+Unexpected IOException with stream: 3
+
+# Created at 2023-09-19T19:13:37.251
+Unexpected IOException with stream:  valor alcanzado 
+
+# Created at 2023-09-19T19:13:37.252
+Unexpected IOException with stream: 2497298
+
+# Created at 2023-09-19T19:13:37.253
+Unexpected IOException with stream: 
+
+
+# Created at 2023-09-19T19:13:37.267
+Unexpected IOException with stream: 2
+
+# Created at 2023-09-19T19:13:37.268
+Unexpected IOException with stream:  valor alcanzado 
+
+# Created at 2023-09-19T19:13:37.268
+Unexpected IOException with stream: 2498911
+
+# Created at 2023-09-19T19:13:37.269
+Unexpected IOException with stream: 
+
+
+# Created at 2023-09-19T19:13:37.310
+Unexpected IOException with stream: 0
+
+# Created at 2023-09-19T19:13:37.311
+Unexpected IOException with stream:  valor alcanzado 
+
+# Created at 2023-09-19T19:13:37.312
+Unexpected IOException with stream: 2497392
+
+# Created at 2023-09-19T19:13:37.313
+Unexpected IOException with stream: 
+
+
+# Created at 2023-09-19T19:13:37.314
+Unexpected IOException with stream: 4
+
+# Created at 2023-09-19T19:13:37.315
+Unexpected IOException with stream:  valor alcanzado 
+
+# Created at 2023-09-19T19:13:37.316
+Unexpected IOException with stream: 2503562
+
+# Created at 2023-09-19T19:13:37.317
+Unexpected IOException with stream: 
+
+
+# Created at 2023-09-19T19:13:37.318
+Unexpected IOException with stream: Aprovacion del 7332193
+
+
+# Created at 2023-09-19T19:13:37.319
+Unexpected IOException: 6,1,kas.concurrente.candados.SemaphoreTest,semaforoTest,null,null,null
+
+
+# Created at 2023-09-19T19:13:37.320
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,kas.concurrente.candados.SemaphoreTest,null,null,null
+
+
+# Created at 2023-09-19T19:13:37.323
+Unexpected IOException: 1,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,kas.concurrente.MesaTest,null,null,null
+
+
+# Created at 2023-09-19T19:13:37.325
+Unexpected IOException: 5,1,kas.concurrente.MesaTest,todosHanIntentadoComerFiltro,null,null,null
+
+
+# Created at 2023-09-19T19:13:47.340
+Unexpected IOException: 6,1,kas.concurrente.MesaTest,todosHanIntentadoComerFiltro,null,null,null
+
+
+# Created at 2023-09-19T19:13:47.342
+Unexpected IOException: 5,1,kas.concurrente.MesaTest,todosComieronFiltro,null,null,null
+
+
+# Created at 2023-09-19T19:13:57.350
+Unexpected IOException: 6,1,kas.concurrente.MesaTest,todosComieronFiltro,null,null,null
+
+
+# Created at 2023-09-19T19:13:57.351
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,kas.concurrente.MesaTest,null,null,null
+
+
+# Created at 2023-09-19T19:13:57.353
+Unexpected IOException: 1,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,kas.concurrente.tenedor.TenedorTest,null,null,null
+
+
+# Created at 2023-09-19T19:13:57.355
+Unexpected IOException: 5,1,kas.concurrente.tenedor.TenedorTest,tenedorTest,null,null,null
+
+
+# Created at 2023-09-19T19:13:57.361
+Unexpected IOException: 6,1,kas.concurrente.tenedor.TenedorTest,tenedorTest,null,null,null
+
+
+# Created at 2023-09-19T19:13:57.362
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,kas.concurrente.tenedor.TenedorTest,null,null,null
+
+

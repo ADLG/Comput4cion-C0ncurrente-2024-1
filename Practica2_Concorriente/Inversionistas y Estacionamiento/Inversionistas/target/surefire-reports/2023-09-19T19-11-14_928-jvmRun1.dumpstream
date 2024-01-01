@@ -1,0 +1,41 @@
+# Created at 2023-09-19T19:11:27.863
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: null
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:398)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+
+# Created at 2023-09-19T19:11:29.030
+Unexpected IOException: 6,1,kas.concurrente.MesaTest,todosHanIntentadoComerFiltro,null,null,null
+
+
+# Created at 2023-09-19T19:11:29.057
+Unexpected IOException: 5,1,kas.concurrente.MesaTest,todosComieronFiltro,null,null,null
+
+
+# Created at 2023-09-19T19:11:39.065
+Unexpected IOException: 6,1,kas.concurrente.MesaTest,todosComieronFiltro,null,null,null
+
+
+# Created at 2023-09-19T19:11:39.066
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,kas.concurrente.MesaTest,null,null,null
+
+
+# Created at 2023-09-19T19:11:39.068
+Unexpected IOException: 1,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,kas.concurrente.tenedor.TenedorTest,null,null,null
+
+
+# Created at 2023-09-19T19:11:39.070
+Unexpected IOException: 5,1,kas.concurrente.tenedor.TenedorTest,tenedorTest,null,null,null
+
+
+# Created at 2023-09-19T19:11:39.075
+Unexpected IOException: 6,1,kas.concurrente.tenedor.TenedorTest,tenedorTest,null,null,null
+
+
+# Created at 2023-09-19T19:11:39.076
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,kas.concurrente.tenedor.TenedorTest,null,null,null
+
+

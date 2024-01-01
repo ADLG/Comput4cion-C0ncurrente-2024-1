@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: kas.concurrente.LockTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.127 s - in kas.concurrente.LockTest
+tasLock  Time elapsed: 0.032 s
+ttasLock  Time elapsed: 0.014 s
+backoffLock  Time elapsed: 0.014 s
+aLock  Time elapsed: 0.017 s
+clhLock  Time elapsed: 0.017 s
+mcsLock  Time elapsed: 0.017 s
